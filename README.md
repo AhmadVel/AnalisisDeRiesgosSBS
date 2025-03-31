@@ -1,8 +1,8 @@
-<h1 align="center">Sistema de Gestión de Seguridad de la Información (SGSI) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Sistema de Gestión de Seguridad de la Información (SGSI) <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN24yMGt4cGk3aWhxeXF1ZXN0cDJsamRhYTQzbXBwcnFvbXA1NWVnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RKTFhuOZFb0ML8sKAk/giphy.gif" width="50"></h1>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ¿Qué es un SGSI?
+## <picture><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRrNjhteTE4d2dvazN2dXZocjk0YzVwMXNhbmJ1ZzRnamZwdGZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wKyRjf4ngjYX6rJhVS/giphy.gif" width = 50px></picture> ¿Qué es un SGSI?
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW83bm1hdnZvcDdlZG81dmdqdW5uemdzemk5Mm95NXgyYmJmZ255MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width = 250px></picture>
 
 Un SGSI (Sistema de Gestión de Seguridad de la Información) es un conjunto de políticas, procesos y controles diseñados para gestionar la seguridad de la información dentro de una organización. Su objetivo principal es proteger la **confidencialidad, integridad y disponibilidad** de la información, minimizando riesgos y asegurando su correcto manejo.
 
