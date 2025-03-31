@@ -8,7 +8,7 @@ Un SGSI (Sistema de Gestión de Seguridad de la Información) es un conjunto de 
 
 ## 🔹 Características de un SGSI
 
-✔ **Basado en normas** → La norma más utilizada es ISO/IEC 27001.  
+✔ **Basado en normas** → La ISO 27001 brinda recomendaciones y guías.  
 ✔ **Enfoque en riesgos** → Identifica, analiza y trata los riesgos de seguridad.  
 ✔ **Ciclo de mejora continua** → Sigue el modelo PDCA (Plan-Do-Check-Act).  
 ✔ **Políticas y controles** → Implementa medidas para garantizar la seguridad de los datos.  
