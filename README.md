@@ -1,5 +1,5 @@
 <h1 align="center">Sistema de Gestión de Seguridad de la Información (SGSI) <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN24yMGt4cGk3aWhxeXF1ZXN0cDJsamRhYTQzbXBwcnFvbXA1NWVnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RKTFhuOZFb0ML8sKAk/giphy.gif" width="50"></h1>
-## <picture><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRrNjhteTE4d2dvazN2dXZocjk0YzVwMXNhbmJ1ZzRnamZwdGZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wKyRjf4ngjYX6rJhVS/giphy.gif" width = 50px></picture> ¿Qué es un SGSI?
+<picture><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRrNjhteTE4d2dvazN2dXZocjk0YzVwMXNhbmJ1ZzRnamZwdGZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wKyRjf4ngjYX6rJhVS/giphy.gif" width = 50px></picture> ¿Qué es un SGSI?
 
 
 <picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW83bm1hdnZvcDdlZG81dmdqdW5uemdzemk5Mm95NXgyYmJmZ255MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width = 250px></picture>
@@ -25,13 +25,17 @@ Un SGSI (Sistema de Gestión de Seguridad de la Información) es un conjunto de 
 ## 📂 Estructura del SGSI
 
 ### 📁 Sistema de Gestión de Seguridad de la Información (SGSI)
+- 📄 [SGSI-FORM-01.xlsx](https://github.com/AhmadVel/SGSI/blob/main/Sistema%20de%20Gesti%C3%B3n%20de%20Seguridad%20de%20la%20Informaci%C3%B3n%20(SGSI)/SGSI-FORM-01.xlsx)
 - 📄 [SGSI-FORM-02.xlsx](https://github.com/AhmadVel/SGSI/blob/main/Sistema%20de%20Gesti%C3%B3n%20de%20Seguridad%20de%20la%20Informaci%C3%B3n%20(SGSI)/SGSI-FORM-02.xlsx)
-- 📄 [SGSI-POL-01.pdf](https://github.com/AhmadVel/SGSI/blob/main/Sistema%20de%20Gesti%C3%B3n%20de%20Seguridad%20de%20la%20Informaci%C3%B3n%20(SGSI)/SGSI-POL-01.pdf)
+- 📄 [SGSI-FORM-03.xlsx](https://github.com/AhmadVel/SGSI/blob/main/Sistema%20de%20Gesti%C3%B3n%20de%20Seguridad%20de%20la%20Informaci%C3%B3n%20(SGSI)/SGSI-FORM-03.xlsx)
+- 📄 [SGSI-FORM-04.xlsx](https://github.com/AhmadVel/SGSI/blob/main/Sistema%20de%20Gesti%C3%B3n%20de%20Seguridad%20de%20la%20Informaci%C3%B3n%20(SGSI)/SGSI-FORM-04.xlsx)
+- 📄 [SGSI-FORM-05.xlsx](https://github.com/AhmadVel/SGSI/blob/main/Sistema%20de%20Gesti%C3%B3n%20de%20Seguridad%20de%20la%20Informaci%C3%B3n%20(SGSI)/SGSI-FORM-05.xlsx)
+- 📄 [SGSI-FORM-06.xlsx](https://github.com/AhmadVel/SGSI/blob/main/Sistema%20de%20Gesti%C3%B3n%20de%20Seguridad%20de%20la%20Informaci%C3%B3n%20(SGSI)/SGSI-FORM-06.xlsx)
+- 📄 [SGSI-FORM-07.xlsx](https://github.com/AhmadVel/SGSI/blob/main/Sistema%20de%20Gesti%C3%B3n%20de%20Seguridad%20de%20la%20Informaci%C3%B3n%20(SGSI)/SGSI-FORM-07.xlsx)
+- 📄 [SGSI-FORM-08.docx](https://github.com/AhmadVel/SGSI/blob/main/Sistema%20de%20Gesti%C3%B3n%20de%20Seguridad%20de%20la%20Informaci%C3%B3n%20(SGSI)/SGSI-FORM-08.docx)
 
 ### 📁 Documentación
-- 📄 [Guía SGSI.pdf](https://github.com/AhmadVel/SGSI/blob/main/Documentaci%C3%B3n/Gu%C3%ADa%20SGSI.pdf)
-- 📄 [Manual de Usuario.docx](https://github.com/AhmadVel/SGSI/blob/main/Documentaci%C3%B3n/Manual%20de%20Usuario.docx)
-
+- 📂 <a href="https://github.com/AhmadVel/SGSI/tree/main/Documentaci%C3%B3n"><img alt="Planes, Reportes y Resoluciones"></a>
 
 
 
