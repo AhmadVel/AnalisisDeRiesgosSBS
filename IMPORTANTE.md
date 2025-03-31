@@ -1,7 +1,18 @@
---------ACERCA DE ESTE PROYECTO--------
+Un SGSI (Sistema de Gestión de Seguridad de la Información) es un conjunto de políticas, procesos y controles diseñados para gestionar la seguridad de la información dentro de una organización. Su objetivo principal es proteger la confidencialidad, integridad y disponibilidad de la información, minimizando riesgos y asegurando su correcto manejo.
 
-1. Este proyecto es el desarrollo de un Sistema de Gestión de Seguridad de la Información (SGSI) y cuenta con una serie de formatos sucesivos, los cuales se enfocan en analizar el contexto de la organización, identificar los activos de un proceso seleccionado del Mapa de Procesos de la SBN, Identificación, Análisis y Evaluación de Riesgos, así como su Plan de Tratamiento de Riesgos.
+🔹 Características de un SGSI
 
-2. Se incluyó una carpeta con la documentación consultada para el desarrollo de estos formatos.
+✔ Basado en normas → La norma más utilizada es ISO/IEC 27001.
+✔ Enfoque en riesgos → Identifica, analiza y trata los riesgos de seguridad.
+✔ Ciclo de mejora continua → Sigue el modelo PDCA (Plan-Do-Check-Act).
+✔ Políticas y controles → Implementa medidas para garantizar la seguridad de los datos.
+✔ Cumplimiento legal → Ayuda a cumplir regulaciones nacionales e internacionales.
 
-   
+
+🔹 Beneficios de un SGSI
+
+🔒 Protección de información sensible
+⚡ Reducción de riesgos de ciberataques
+📈 Mejora la confianza de clientes y socios
+✅ Cumplimiento con normativas y leyes
+💰 Evita costos por incidentes de seguridad
